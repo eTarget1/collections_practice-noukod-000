@@ -1,20 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @eTarget1 Sign out
-1
-0 1 thebrianemory/flatiron-refresh
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-flatiron-refresh/collections_practice-v-000/collections_practice.rb
-a5fa8b1  on Jan 25, 2017
-@thebrianemory thebrianemory Done
-     
-56 lines (47 sloc)  801 Bytes
 def sort_array_asc(array)
   array.sort do |a, b|
     a <=> b
@@ -70,16 +53,3 @@ def add_s(array)
     end
   end
 end
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
