@@ -3,3 +3,9 @@ def sort_array_asc(integers)
     a <=>
   end
 end
+
+def sort_array_desc(integers)
+  array.sort do |a, b|
+    b <=> a
+  end
+end
